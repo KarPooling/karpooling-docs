@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net">
   <diagram name="Iniciar sesión/registro" id="s4sOg5MzFhBho_B9wd7f">
-    <mxGraphModel dx="3186" dy="2037" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="3290" dy="1504" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -91,7 +91,7 @@
             <mxPoint x="892.6" y="589" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="GpR-LCk0GsTZV7hxijM_-31" parent="1" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shadow=0;dashed=0;strokeWidth=4;shape=mxgraph.android.progressBar;dx1=0;dx2=0.08;fillColor=none;strokeColor2=#444444;rounded=0;labelBackgroundColor=none;" value="" vertex="1">
+        <mxCell id="GpR-LCk0GsTZV7hxijM_-31" parent="1" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shadow=0;dashed=0;strokeWidth=4;shape=mxgraph.android.progressBar;dx1=0;dx2=0.08;fillColor=none;strokeColor2=#CCCCCC;rounded=0;labelBackgroundColor=none;fillStyle=auto;" value="" vertex="1">
           <mxGeometry height="5" width="150" x="725" y="570" as="geometry" />
         </mxCell>
         <mxCell id="GpR-LCk0GsTZV7hxijM_-33" connectable="0" parent="1" style="group;rounded=0;labelBackgroundColor=none;" value="" vertex="1">
@@ -118,7 +118,7 @@
             <mxPoint x="1192.6" y="588" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="GpR-LCk0GsTZV7hxijM_-53" parent="1" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shadow=0;dashed=0;strokeWidth=4;shape=mxgraph.android.progressBar;dx1=0;dx2=0.37;fillColor=none;strokeColor2=#444444;rounded=0;labelBackgroundColor=none;" value="" vertex="1">
+        <mxCell id="GpR-LCk0GsTZV7hxijM_-53" parent="1" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shadow=0;dashed=0;strokeWidth=4;shape=mxgraph.android.progressBar;dx1=0;dx2=0.37;fillColor=none;strokeColor2=#CCCCCC;rounded=0;labelBackgroundColor=none;fillStyle=auto;strokeColor=default;align=center;fontFamily=Helvetica;fontSize=12;fontColor=default;" value="" vertex="1">
           <mxGeometry height="5" width="130" x="1050" y="569" as="geometry" />
         </mxCell>
         <mxCell id="GpR-LCk0GsTZV7hxijM_-59" parent="1" style="rounded=0;html=1;shadow=0;dashed=0;whiteSpace=wrap;fontSize=10;align=center;labelBackgroundColor=none;fillColor=light-dark(#CCCCCC,#272727);strokeColor=none;" value="Si" vertex="1">
@@ -157,7 +157,7 @@
             <mxPoint x="1467.6" y="588" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="GpR-LCk0GsTZV7hxijM_-74" parent="1" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shadow=0;dashed=0;strokeWidth=4;shape=mxgraph.android.progressBar;dx1=0;dx2=0.64;fillColor=none;strokeColor2=#444444;rounded=0;labelBackgroundColor=none;" value="" vertex="1">
+        <mxCell id="GpR-LCk0GsTZV7hxijM_-74" parent="1" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shadow=0;dashed=0;strokeWidth=4;shape=mxgraph.android.progressBar;dx1=0;dx2=0.64;fillColor=none;strokeColor2=#CCCCCC;rounded=0;labelBackgroundColor=none;" value="" vertex="1">
           <mxGeometry height="5" width="130" x="1325" y="569" as="geometry" />
         </mxCell>
         <mxCell id="GpR-LCk0GsTZV7hxijM_-76" parent="1" style="editableCssRules=path;shape=image;aspect=fixed;image=data:image/svg+xml,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNTYgNTEyIj48IS0tISBGb250IEF3ZXNvbWUgRnJlZSA2LjEuMSBieSBAZm9udGF3ZXNvbWUgLSBodHRwczovL2ZvbnRhd2Vzb21lLmNvbSBMaWNlbnNlIC0gaHR0cHM6Ly9mb250YXdlc29tZS5jb20vbGljZW5zZS9mcmVlIChJY29uczogQ0MgQlkgNC4wLCBGb250czogU0lMIE9GTCAxLjEsIENvZGU6IE1JVCBMaWNlbnNlKSBDb3B5cmlnaHQgMjAyMiBGb250aWNvbnMsIEluYy4gLS0+PHN0eWxlIHR5cGU9InRleHQvY3NzIj5wYXRoIHtmaWxsOiMwMDAwMDA7fTwvc3R5bGU+PHBhdGggZD0iTTE5MiA0NDhjLTguMTg4IDAtMTYuMzgtMy4xMjUtMjIuNjItOS4zNzVsLTE2MC0xNjBjLTEyLjUtMTIuNS0xMi41LTMyLjc1IDAtNDUuMjVsMTYwLTE2MGMxMi41LTEyLjUgMzIuNzUtMTIuNSA0NS4yNSAwczEyLjUgMzIuNzUgMCA0NS4yNUw3Ny4yNSAyNTZsMTM3LjQgMTM3LjRjMTIuNSAxMi41IDEyLjUgMzIuNzUgMCA0NS4yNUMyMDguNCA0NDQuOSAyMDAuMiA0NDggMTkyIDQ0OHoiLz48L3N2Zz4=;connectable=0;movable=1;verticalLabelPosition=bottom;resizable=1;rotatable=0;cloneable=0;deletable=1;recursiveResize=0;imageBackground=none;verticalAlign=top;rounded=0;labelBackgroundColor=none;" value="" vertex="1">
@@ -247,7 +247,7 @@
             <mxPoint x="1772.6" y="588" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="GpR-LCk0GsTZV7hxijM_-139" parent="1" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shadow=0;dashed=0;strokeWidth=4;shape=mxgraph.android.progressBar;dx1=0;dx2=0.37;fillColor=none;strokeColor2=#444444;rounded=0;labelBackgroundColor=none;" value="" vertex="1">
+        <mxCell id="GpR-LCk0GsTZV7hxijM_-139" parent="1" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shadow=0;dashed=0;strokeWidth=4;shape=mxgraph.android.progressBar;dx1=0;dx2=0.88;fillColor=none;strokeColor2=#CCCCCC;rounded=0;labelBackgroundColor=none;" value="" vertex="1">
           <mxGeometry height="5" width="130" x="1630" y="569" as="geometry" />
         </mxCell>
         <mxCell id="GpR-LCk0GsTZV7hxijM_-141" parent="1" style="editableCssRules=path;shape=image;aspect=fixed;image=data:image/svg+xml,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNTYgNTEyIj48IS0tISBGb250IEF3ZXNvbWUgRnJlZSA2LjEuMSBieSBAZm9udGF3ZXNvbWUgLSBodHRwczovL2ZvbnRhd2Vzb21lLmNvbSBMaWNlbnNlIC0gaHR0cHM6Ly9mb250YXdlc29tZS5jb20vbGljZW5zZS9mcmVlIChJY29uczogQ0MgQlkgNC4wLCBGb250czogU0lMIE9GTCAxLjEsIENvZGU6IE1JVCBMaWNlbnNlKSBDb3B5cmlnaHQgMjAyMiBGb250aWNvbnMsIEluYy4gLS0+PHN0eWxlIHR5cGU9InRleHQvY3NzIj5wYXRoIHtmaWxsOiMwMDAwMDA7fTwvc3R5bGU+PHBhdGggZD0iTTE5MiA0NDhjLTguMTg4IDAtMTYuMzgtMy4xMjUtMjIuNjItOS4zNzVsLTE2MC0xNjBjLTEyLjUtMTIuNS0xMi41LTMyLjc1IDAtNDUuMjVsMTYwLTE2MGMxMi41LTEyLjUgMzIuNzUtMTIuNSA0NS4yNSAwczEyLjUgMzIuNzUgMCA0NS4yNUw3Ny4yNSAyNTZsMTM3LjQgMTM3LjRjMTIuNSAxMi41IDEyLjUgMzIuNzUgMCA0NS4yNUMyMDguNCA0NDQuOSAyMDAuMiA0NDggMTkyIDQ0OHoiLz48L3N2Zz4=;connectable=0;movable=1;verticalLabelPosition=bottom;resizable=1;rotatable=0;cloneable=0;deletable=1;recursiveResize=0;imageBackground=none;verticalAlign=top;rounded=0;labelBackgroundColor=none;" value="" vertex="1">
@@ -289,7 +289,7 @@
             <mxPoint x="2052.6" y="588" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="GpR-LCk0GsTZV7hxijM_-159" parent="1" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shadow=0;dashed=0;strokeWidth=4;shape=mxgraph.android.progressBar;dx1=0;dx2=0.37;fillColor=none;strokeColor2=#444444;rounded=0;labelBackgroundColor=none;" value="" vertex="1">
+        <mxCell id="GpR-LCk0GsTZV7hxijM_-159" parent="1" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shadow=0;dashed=0;strokeWidth=4;shape=mxgraph.android.progressBar;dx1=0;dx2=0.92;fillColor=none;strokeColor2=#CCCCCC;rounded=0;labelBackgroundColor=none;" value="" vertex="1">
           <mxGeometry height="5" width="130" x="1910" y="569" as="geometry" />
         </mxCell>
         <mxCell id="GpR-LCk0GsTZV7hxijM_-160" parent="1" style="editableCssRules=path;shape=image;aspect=fixed;image=data:image/svg+xml,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNTYgNTEyIj48IS0tISBGb250IEF3ZXNvbWUgRnJlZSA2LjEuMSBieSBAZm9udGF3ZXNvbWUgLSBodHRwczovL2ZvbnRhd2Vzb21lLmNvbSBMaWNlbnNlIC0gaHR0cHM6Ly9mb250YXdlc29tZS5jb20vbGljZW5zZS9mcmVlIChJY29uczogQ0MgQlkgNC4wLCBGb250czogU0lMIE9GTCAxLjEsIENvZGU6IE1JVCBMaWNlbnNlKSBDb3B5cmlnaHQgMjAyMiBGb250aWNvbnMsIEluYy4gLS0+PHN0eWxlIHR5cGU9InRleHQvY3NzIj5wYXRoIHtmaWxsOiMwMDAwMDA7fTwvc3R5bGU+PHBhdGggZD0iTTE5MiA0NDhjLTguMTg4IDAtMTYuMzgtMy4xMjUtMjIuNjItOS4zNzVsLTE2MC0xNjBjLTEyLjUtMTIuNS0xMi41LTMyLjc1IDAtNDUuMjVsMTYwLTE2MGMxMi41LTEyLjUgMzIuNzUtMTIuNSA0NS4yNSAwczEyLjUgMzIuNzUgMCA0NS4yNUw3Ny4yNSAyNTZsMTM3LjQgMTM3LjRjMTIuNSAxMi41IDEyLjUgMzIuNzUgMCA0NS4yNUMyMDguNCA0NDQuOSAyMDAuMiA0NDggMTkyIDQ0OHoiLz48L3N2Zz4=;connectable=0;movable=1;verticalLabelPosition=bottom;resizable=1;rotatable=0;cloneable=0;deletable=1;recursiveResize=0;imageBackground=none;verticalAlign=top;rounded=0;labelBackgroundColor=none;" value="" vertex="1">
@@ -409,7 +409,7 @@
             <mxPoint x="1530" y="740" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="1fyiJKXPkVzGdFKURxYS-35" parent="1" style="shape=note;strokeWidth=2;fontSize=14;size=20;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontColor=#666600;align=left;spacing=11;" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;&lt;b&gt;$context&lt;/b&gt;:&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;La misma pantalla sirve para Salida o destino&lt;/font&gt;&lt;/div&gt;" vertex="1">
+        <mxCell id="1fyiJKXPkVzGdFKURxYS-35" parent="1" style="shape=note;strokeWidth=2;fontSize=14;size=20;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontColor=#666600;align=left;spacing=11;" value="&lt;font style=&quot;font-size: 10px;&quot;&gt;&lt;b&gt;$context&lt;/b&gt;:&lt;/font&gt;&lt;div&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;La misma pantalla sirve para Salida o Destino&lt;/font&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="80" width="110.00000000000001" x="2175" y="428" as="geometry" />
         </mxCell>
         <mxCell id="1fyiJKXPkVzGdFKURxYS-38" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;entryX=0.966;entryY=0.818;entryDx=0;entryDy=0;entryPerimeter=0;textOpacity=10;opacity=10;labelBackgroundColor=none;fontColor=default;" value="">
@@ -521,7 +521,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="GpR-LCk0GsTZV7hxijM_-38" parent="1" style="rounded=0;html=1;shadow=0;dashed=0;whiteSpace=wrap;fontSize=10;align=center;labelBackgroundColor=none;strokeColor=none;fillColor=#B3B3B3;" value="Continuar" vertex="1">
+        <mxCell id="GpR-LCk0GsTZV7hxijM_-38" parent="1" style="rounded=0;html=1;shadow=0;dashed=0;whiteSpace=wrap;fontSize=10;align=center;labelBackgroundColor=none;strokeColor=none;fillColor=#CCCCCC;" value="Continuar" vertex="1">
           <mxGeometry height="20" width="150" x="725" y="844" as="geometry" />
         </mxCell>
         <mxCell id="GpR-LCk0GsTZV7hxijM_-123" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;entryX=0.966;entryY=0.818;entryDx=0;entryDy=0;entryPerimeter=0;textOpacity=10;opacity=10;labelBackgroundColor=none;fontColor=default;" value="">
