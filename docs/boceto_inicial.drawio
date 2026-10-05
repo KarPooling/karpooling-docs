@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net">
   <diagram name="Iniciar sesión/registro" id="s4sOg5MzFhBho_B9wd7f">
-    <mxGraphModel dx="3535" dy="1880" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="3910" dy="1945" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -584,6 +584,56 @@
             </Array>
             <mxPoint x="556.51" y="864.7" as="sourcePoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="VD-Yu3FRg7MzS_NlE2Xe-1" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=9;" value="¿Has olvidado la contraseña?" vertex="1">
+          <mxGeometry height="30" width="138" x="143" y="309" as="geometry" />
+        </mxCell>
+        <mxCell id="VD-Yu3FRg7MzS_NlE2Xe-2" parent="1" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shadow=0;dashed=0;strokeWidth=1;shape=mxgraph.android.phone2;rounded=0;labelBackgroundColor=none;" value="" vertex="1">
+          <mxGeometry height="390" width="200" x="-205" y="80" as="geometry" />
+        </mxCell>
+        <mxCell id="VD-Yu3FRg7MzS_NlE2Xe-4" connectable="0" parent="1" style="group;rounded=0;labelBackgroundColor=none;" value="" vertex="1">
+          <mxGeometry height="91" width="150" x="-180" y="190" as="geometry" />
+        </mxCell>
+        <mxCell id="VD-Yu3FRg7MzS_NlE2Xe-7" parent="VD-Yu3FRg7MzS_NlE2Xe-4" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;" value="" vertex="1">
+          <mxGeometry height="20" width="150" y="65" as="geometry" />
+        </mxCell>
+        <mxCell id="VD-Yu3FRg7MzS_NlE2Xe-8" parent="VD-Yu3FRg7MzS_NlE2Xe-4" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;labelBackgroundColor=none;" value="Correo" vertex="1">
+          <mxGeometry height="30" width="60" y="41" as="geometry" />
+        </mxCell>
+        <mxCell id="VD-Yu3FRg7MzS_NlE2Xe-10" parent="1" style="rounded=0;html=1;shadow=0;dashed=0;whiteSpace=wrap;fontSize=10;align=center;labelBackgroundColor=none;fontFamily=Helvetica;fontColor=#333333;fontStyle=0;verticalAlign=middle;fillColor=light-dark(#CCCCCC,#272727);strokeColor=none;" value="Enviar" vertex="1">
+          <mxGeometry height="20" width="150" x="-180" y="290" as="geometry" />
+        </mxCell>
+        <mxCell id="VD-Yu3FRg7MzS_NlE2Xe-13" edge="1" parent="1" source="VD-Yu3FRg7MzS_NlE2Xe-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.624;entryDx=0;entryDy=0;entryPerimeter=0;dashed=1;" target="VD-Yu3FRg7MzS_NlE2Xe-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="VD-Yu3FRg7MzS_NlE2Xe-15" edge="1" parent="1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.004;entryY=0.151;entryDx=0;entryDy=0;entryPerimeter=0;dashed=1;" target="Tsj7G9EET7kH3x2OyKZu-1">
+          <mxGeometry relative="1" x="-0.4019" as="geometry">
+            <Array as="points">
+              <mxPoint x="-180.8" y="63.9" />
+              <mxPoint x="49.9" y="63.9" />
+              <mxPoint x="49.9" y="138.9" />
+            </Array>
+            <mxPoint x="-180.8" y="120" as="sourcePoint" />
+            <mxPoint x="-39.2000000000001" y="120.30000000000007" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="VD-Yu3FRg7MzS_NlE2Xe-17" parent="1" style="editableCssRules=path;shape=image;aspect=fixed;image=data:image/svg+xml,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNTYgNTEyIj48IS0tISBGb250IEF3ZXNvbWUgRnJlZSA2LjEuMSBieSBAZm9udGF3ZXNvbWUgLSBodHRwczovL2ZvbnRhd2Vzb21lLmNvbSBMaWNlbnNlIC0gaHR0cHM6Ly9mb250YXdlc29tZS5jb20vbGljZW5zZS9mcmVlIChJY29uczogQ0MgQlkgNC4wLCBGb250czogU0lMIE9GTCAxLjEsIENvZGU6IE1JVCBMaWNlbnNlKSBDb3B5cmlnaHQgMjAyMiBGb250aWNvbnMsIEluYy4gLS0+PHN0eWxlIHR5cGU9InRleHQvY3NzIj5wYXRoIHtmaWxsOiMwMDAwMDA7fTwvc3R5bGU+PHBhdGggZD0iTTE5MiA0NDhjLTguMTg4IDAtMTYuMzgtMy4xMjUtMjIuNjItOS4zNzVsLTE2MC0xNjBjLTEyLjUtMTIuNS0xMi41LTMyLjc1IDAtNDUuMjVsMTYwLTE2MGMxMi41LTEyLjUgMzIuNzUtMTIuNSA0NS4yNSAwczEyLjUgMzIuNzUgMCA0NS4yNUw3Ny4yNSAyNTZsMTM3LjQgMTM3LjRjMTIuNSAxMi41IDEyLjUgMzIuNzUgMCA0NS4yNUMyMDguNCA0NDQuOSAyMDAuMiA0NDggMTkyIDQ0OHoiLz48L3N2Zz4=;connectable=0;movable=1;verticalLabelPosition=bottom;resizable=1;rotatable=0;cloneable=0;deletable=1;recursiveResize=0;imageBackground=none;verticalAlign=top;rounded=0;labelBackgroundColor=none;" value="" vertex="1">
+          <mxGeometry height="16" width="16" x="-190" y="121" as="geometry" />
+        </mxCell>
+        <mxCell id="VD-Yu3FRg7MzS_NlE2Xe-18" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;h3&gt;Recuperar contraseña&lt;/h3&gt;" vertex="1">
+          <mxGeometry height="30" width="158" x="-180" y="177" as="geometry" />
+        </mxCell>
+        <mxCell id="VD-Yu3FRg7MzS_NlE2Xe-19" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=9;labelBackgroundColor=none;" value="&lt;p&gt;&lt;span style=&quot;&quot;&gt;No tienes cuenta, &lt;span style=&quot;color: light-dark(rgb(11, 32, 224), rgb(126, 166, 224));&quot;&gt;crea una&lt;/span&gt;.&lt;/span&gt;&lt;/p&gt;" vertex="1">
+          <mxGeometry height="30" width="113" x="-162.10000000000002" y="401" as="geometry" />
+        </mxCell>
+        <mxCell id="VD-Yu3FRg7MzS_NlE2Xe-20" edge="1" parent="1" style="endArrow=none;html=1;rounded=0;entryX=0.966;entryY=0.818;entryDx=0;entryDy=0;entryPerimeter=0;textOpacity=10;opacity=10;labelBackgroundColor=none;fontColor=default;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="-197.60000000000002" y="401.0400000000002" as="sourcePoint" />
+            <mxPoint x="-12.399999999999977" y="401.02" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="VD-Yu3FRg7MzS_NlE2Xe-21" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=9;" value="Añade tu correo asociado para recuperar la contraseña" vertex="1">
+          <mxGeometry height="30" width="150" x="-180" y="203" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
