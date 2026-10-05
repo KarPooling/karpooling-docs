@@ -1,9 +1,33 @@
 <mxfile host="app.diagrams.net">
   <diagram name="Página-1" id="s4sOg5MzFhBho_B9wd7f">
-    <mxGraphModel dx="1129" dy="727" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="452" dy="291" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="Tsj7G9EET7kH3x2OyKZu-1" parent="1" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shadow=0;dashed=0;strokeWidth=1;shape=mxgraph.android.phone2;strokeColor=#c0c0c0;" value="" vertex="1">
+          <mxGeometry height="390" width="200" x="112" y="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Tsj7G9EET7kH3x2OyKZu-2" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="KarPooling" vertex="1">
+          <mxGeometry height="30" width="60" x="182" y="150" as="geometry" />
+        </mxCell>
+        <mxCell id="Tsj7G9EET7kH3x2OyKZu-9" connectable="0" parent="1" style="group" value="" vertex="1">
+          <mxGeometry height="91" width="150" x="137" y="206" as="geometry" />
+        </mxCell>
+        <mxCell id="Tsj7G9EET7kH3x2OyKZu-5" parent="Tsj7G9EET7kH3x2OyKZu-9" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;" value="" vertex="1">
+          <mxGeometry height="20" width="150" y="24" as="geometry" />
+        </mxCell>
+        <mxCell id="Tsj7G9EET7kH3x2OyKZu-6" parent="Tsj7G9EET7kH3x2OyKZu-9" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;" value="Usuario" vertex="1">
+          <mxGeometry height="30" width="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Tsj7G9EET7kH3x2OyKZu-7" parent="Tsj7G9EET7kH3x2OyKZu-9" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;" value="" vertex="1">
+          <mxGeometry height="20" width="150" y="71" as="geometry" />
+        </mxCell>
+        <mxCell id="Tsj7G9EET7kH3x2OyKZu-8" parent="Tsj7G9EET7kH3x2OyKZu-9" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;" value="Contraseña" vertex="1">
+          <mxGeometry height="30" width="60" y="47" as="geometry" />
+        </mxCell>
+        <mxCell id="Tsj7G9EET7kH3x2OyKZu-13" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=9;" value="&lt;p&gt;&lt;span style=&quot;color: light-dark(rgb(0, 0, 0), rgb(126, 166, 224));&quot;&gt;No tienes cuenta, crea una.&lt;/span&gt;&lt;/p&gt;" vertex="1">
+          <mxGeometry height="30" width="113" x="157" y="300" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
